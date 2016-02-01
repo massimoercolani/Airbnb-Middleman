@@ -1,0 +1,38 @@
+.header-flat {
+  padding: 80px 0;
+  border: 1px solid #dce0e0;;
+  form {
+    background: #F4F4F4;
+    padding: 40px;
+    box-shadow: 1px 1px 1px #E5E5E5;
+  }
+}
+.header-flat-details {
+  display: flex;
+  align-items: center;
+  margin-top: 70px;
+  p {
+    font-size: 14px;
+    font-weight: light;
+    margin-top: 10px;
+    color: #777777;
+  }
+  img {
+    width: 80px;
+  }
+  h2 {
+    font-size: 18px;
+    margin-top: 0;
+  }
+}
+.header-flat-name {
+  text-align: left;
+  margin-left: 20px;
+}
+#flat-description {
+    background: #F5F5F5;
+    padding: 50px 0;
+    padding-bottom: 100px;
+    font-size: 14px;
+    color: #555555;
+}
